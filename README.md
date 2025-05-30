@@ -44,7 +44,6 @@ Soy un entusiasta de la ciencia de datos con experiencia en aprendizaje automát
 - [🛫 Engagement de cursos online](https://github.com/abdonrb/Course-engagement)
 - [📊 Agente conversacional Ollama](https://github.com/abdonrb/LLM_Desafio)
 - [💻 Serie temporal sobre ventas](https://github.com/abdonrb/proyecto-ml)
-- [⏱️ Intercambio de divisas en series temporales](https://github.com/abdonrb/Time_series_currency-exchange)
 - [🚀 ETL bitcoin](https://github.com/abdonrb/ETL_Bitcoin)
 - [🛠️ Limpieza data set Setas ](https://github.com/abdonrb/Proyecto_setas)
 
