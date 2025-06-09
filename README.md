@@ -42,6 +42,7 @@ Soy un entusiasta de la ciencia de datos con experiencia en aprendizaje automát
 ### 📈 Repos destacados
 
 - [🛫 Engagement de cursos online](https://github.com/abdonrb/Course-engagement)
+- [🏡 Real State ML, LLM ](https://github.com/abdonrb/Real_state_ML)
 - [📊 Agente conversacional Ollama](https://github.com/abdonrb/LLM_Desafio)
 - [💻 Serie temporal sobre ventas](https://github.com/abdonrb/proyecto-ml)
 - [🚀 ETL bitcoin](https://github.com/abdonrb/ETL_Bitcoin)
